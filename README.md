@@ -2,7 +2,7 @@
 ### Adivina el nombre del famoso!
 
 
-<img src="https://github.com/Antonio1138/guessTheCelebrity/blob/master/namegame.jpg"/>
+<img src="https://github.com/Antonio1138/guessTheCelebrity/blob/master/namegame.jpg" width="500" height="300" />
 
 ## Descripción
 Aplicación que consiste en adivinar el nombre del famoso que aparece en pantalla.
