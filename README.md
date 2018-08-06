@@ -2,8 +2,8 @@
 ### Adivina el nombre del famoso!
 
 
-<img src="https://github.com/Antonio1138/Egg-Timer/blob/master/eggtime.jpg" alt="egg"
-  width="300" height=600"/>
+<img src="https://github.com/Antonio1138/guessTheCelebrity/blob/master/namegame.jpg" alt="namegame"
+  width="300" height=450"/>
 
 ## Descripción
 Aplicación que consiste en adivinar el nombre del famoso que aparece en pantalla.
